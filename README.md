@@ -32,11 +32,9 @@ The Android Blood Bank Application is a mobile solution designed to simplify the
 - 💡 **RAM:** 8GB
 - 💻 **Processor:** Core i5
 
-## Objective:
-Facilitate easy contact between blood donors and recipients through a user-friendly Android application.
+## Conclusion:
+The Android Blood Bank Application streamlines blood donation processes, providing a seamless interface for donors and recipients to connect efficiently.
+
 
 ## Contribution:
 Contributions to the Android Blood Bank Application project are welcome and encouraged. Whether it's code improvements, bug fixes, or feature enhancements, your contributions can make a significant impact on improving the application's functionality and user experience. Please refer to the project's GitHub repository for guidelines on contributing.
-
-## Conclusion:
-The Android Blood Bank Application streamlines blood donation processes, providing a seamless interface for donors and recipients to connect efficiently.
