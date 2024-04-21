@@ -57,8 +57,7 @@ public class UserAdapter  extends RecyclerView.Adapter<UserAdapter.ViewHolder>{
             holder.emailNow.setVisibility(View.VISIBLE);
         }
 
-//        holder.userEmail.setText(user.getEmail());
-//        holder.phoneNumber.setText(user.getPhonenumber());
+]
         holder.userName.setText(user.getName());
         holder.bloodGroup.setText(user.getBloodgroup());
 
