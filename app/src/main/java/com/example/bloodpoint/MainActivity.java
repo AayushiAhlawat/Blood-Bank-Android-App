@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity
 
         toolbar=findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        getSupportActionBar().setTitle("Blood Point");
+        getSupportActionBar().setTitle("Blood Bank");
 
         drawerLayout=findViewById(R.id.drawerLayout);
         nav_view=findViewById(R.id.nav_view);

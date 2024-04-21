@@ -152,8 +152,6 @@ public class UserAdapter  extends RecyclerView.Adapter<UserAdapter.ViewHolder>{
             userProfileImage  = itemView.findViewById(R.id.userProfileImage);
             type = itemView.findViewById(R.id.type);
             userName   = itemView.findViewById(R.id.userName);
-//            userEmail = itemView.findViewById(R.id.userEmail);
-//            phoneNumber = itemView.findViewById(R.id.phoneNumber);
             bloodGroup = itemView.findViewById(R.id.bloodGroup);
             emailNow = itemView.findViewById(R.id.emailNow);
 
